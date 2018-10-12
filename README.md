@@ -5,7 +5,7 @@ This Tweek will install a Command Line Tool - jailsu, which will allow you execu
 # Usage
 
 ```
-	jailsu debugserver *:12345 -a "MobileSafari"
+	ios-test# jailsu debugserver *:12345 -a "MobileSafari"
 ```
 
 
