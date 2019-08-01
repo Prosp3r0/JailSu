@@ -1,6 +1,6 @@
 # About
 
-This Tweek will install a Command Line Tool - jailsu, which will allow you execute your program using root privilege.
+This Tweek will install a Command Line Tool - jailsu, which will allow you execute your program with root privilege.
 
 # Usage
 
